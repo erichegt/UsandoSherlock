@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">TestandoMenus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="novo">Novo</string>
+    <string name="editar">Editar</string>
+    <string name="grafico">Grafico</string>
+    
+    <string-array name="carros">
+        <item>Gol</item>
+        <item>Ka</item>
+        <item>March</item>
+        <item>Palio</item>
+        <item>206</item>
+    </string-array>
+        <string name="carros_populares">Carros populares</string>
+
+</resources>
